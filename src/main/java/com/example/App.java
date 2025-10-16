@@ -1,7 +1,7 @@
-package main.java.com.example;
+package com.example;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello from Jenkins Pipeline Java App!");
+        System.out.println("Hello from Jenkins Java App!");
     }
 }
